@@ -1,2 +1,5 @@
 # Chat-app
-Flutter App
+Flutter app with using firebase
+
+# State Management
+Using cubit/bloc.
