@@ -1,5 +1,5 @@
 # Chat-app
 Flutter app with using firebase
 
-# State Management
+## State Management
 Using cubit/bloc.
