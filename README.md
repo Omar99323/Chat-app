@@ -1,4 +1,4 @@
-# Chat-app
+# Chat app
 Flutter app with using firebase
 
 ## State Management
